@@ -5,7 +5,7 @@ This project is a full-stack social media web application that has been develope
 
 In this social media platform where you can share posts, like/unlike posts, Follow/Unfollow users and more.
 
-## 🖥️ Technologies :
+## Technologies :
   
  **Frontend:**
  
