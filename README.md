@@ -24,7 +24,7 @@ In this social media platform where you can share posts, like/unlike posts, Foll
 - **JWT Authentication**
 
 
-## 🚀 Features :
+## Features :
 
 - SignUp/Register Page.
 - Login Page.
